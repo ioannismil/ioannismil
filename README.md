@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ioannis</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Ioannis</h1>
+<h3>Stay curious</h3>
 
 <p align="left"> <a href="https://twitter.com/ioannis_mtd" target="blank"><img src="https://img.shields.io/twitter/follow/ioannis_mtd?logo=twitter&style=for-the-badge" alt="ioannis_mtd" /></a> </p>
 
