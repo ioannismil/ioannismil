@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on acceler8.cy<br>👨‍💻 All of my projects are available at https://ioannismil.github.io/profile/<br>📄 Know about my experiences https://ioannismil.github.io/profile/cv.pdf<br>⚡ Fun fact If it seems interesting, I've probably looked it up.<br>
+🔭 I’m currently working on [Acceler8Automation](https://acceler8.cy)<br>👨‍💻 All of my projects are available at https://ioannismil.github.io/profile/<br>📄 Know about my experiences https://ioannismil.github.io/profile/cv.pdf<br>⚡ Fun fact If it seems interesting, I've probably looked it up.<br>
 
 
 ## 🌐 Socials:
